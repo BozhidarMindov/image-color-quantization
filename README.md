@@ -12,7 +12,7 @@ Image color quantization is a technique that reduces the number of colors in a g
 - Download the color-quantized image. 8-bit PNG, 24-bit PNG, or JPEG formats are supported.
 
 ## Installation
-Requirements:
+### Requirements:
 - **Java Development Kit (JDK)** 17 or later. For best compatibility, download the official [Oracle JDK](https://www.oracle.com/java/technologies/downloads/).
 - **JavaFX Runtime** compatible with your JDK version. [Link to the **Gluon** website to install JavaFX]( https://gluonhq.com/products/javafx/). 
 - (Optional) **Scene Builder** for modifying the UI. [Link to the **Scene Builder** download page](https://gluonhq.com/products/scene-builder/).
