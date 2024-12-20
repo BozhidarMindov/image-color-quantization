@@ -14,7 +14,8 @@ Image color quantization is a technique that reduces the number of colors in a g
 ## Installation
 ### Requirements:
 - **Java Development Kit (JDK)** 17 or later. For best compatibility, download the official [Oracle JDK](https://www.oracle.com/java/technologies/downloads/).
-- **JavaFX Runtime** compatible with your JDK version. [Link to the **Gluon** website to install JavaFX]( https://gluonhq.com/products/javafx/). 
+- **JavaFX Runtime** compatible with your JDK version. [Link to the **Gluon** website to install JavaFX]( https://gluonhq.com/products/javafx/).
+- Install **JUnit5** to run the unit tests. [Link to the **JUnit5** website](https://junit.org/junit5/). If you are using IntelliJ IDEA, this can be done entirely through the IDE.
 - (Optional) **Scene Builder** for modifying the UI. [Link to the **Scene Builder** download page](https://gluonhq.com/products/scene-builder/).
    
 ### Setup:
@@ -26,6 +27,9 @@ Image color quantization is a technique that reduces the number of colors in a g
 ```
 
 Where the "path_to_javafx_lib" is the path to the lib folder of your JavaFX Runtime installation.
+
+### Maven/Gradle
+If you are using the **Maven** or **Gradle** package managers, you can manage the JavaFX and JUnit5 installation using them.
 
 ## Running the Program
 - You must build and run the project using your preferred IDE. 
