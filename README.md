@@ -42,4 +42,4 @@ Where the "path_to_javafx_lib" is the path to the lib folder of your JavaFX Runt
 ![Algorithm Statistics](https://github.com/user-attachments/assets/fc97f663-8adf-4c3e-bfa4-03656e1ded07)
 
 ## Acknowledgments
-Supervisor: Vladimir Georgiev, Department of Computer Science, AUBG
+**Supervisor**: Vladimir Georgiev, Department of Computer Science, AUBG
