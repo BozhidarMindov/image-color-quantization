@@ -29,7 +29,7 @@ Image color quantization is a technique that reduces the number of colors in a g
 Where the "path_to_javafx_lib" is the path to the lib folder of your JavaFX Runtime installation.
 
 ### Maven/Gradle
-If you are using the **Maven** or **Gradle** package managers, you can manage the JavaFX and JUnit5 installation using them.
+If you are using the **Maven** or **Gradle** package managers, you can manage the JavaFX and JUnit5 installations using them.
 
 ## Running the Program
 - You must build and run the project using your preferred IDE. 
