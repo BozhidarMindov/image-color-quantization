@@ -31,5 +31,15 @@ Where the "path_to_javafx_lib" is the path to the lib folder of your JavaFX Runt
 - You must build and run the project using your preferred IDE. 
 - Start the application by running **src/main/java/views/QuantizerView.java**
 
+## Results
+- The UI after color-quantizing an image:
+![UI Overview](https://github.com/user-attachments/assets/0257e9ab-e33c-4313-95a7-f7f7d30905c4)
+
+- Color editing (using the same color-quantized image as the figure above, with the learned orange color getting changed to lime):
+![Color Editing](https://github.com/user-attachments/assets/6c9105d4-5277-40f4-acb0-49d8e6f15b95)
+
+- Algorithm Statistics and Comparison
+![Algorithm Statistics](https://github.com/user-attachments/assets/fc97f663-8adf-4c3e-bfa4-03656e1ded07)
+
 ## Acknowledgments
 Supervisor: Vladimir Georgiev, Department of Computer Science, AUBG
