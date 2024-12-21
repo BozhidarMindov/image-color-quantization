@@ -4,6 +4,8 @@ A JavaFX application for image color quantization using machine learning algorit
 ## Overview
 Image color quantization is a technique that reduces the number of colors in a given image without much loss of quality and important information. The project supports two machine learning algorithms for the color quantization process: **Self-Organizing Map (SOM)** and **Mini Batch K-Means Clustering**. Both algorithms were implemented from scratch and are optimized for speed and output quality.
 
+An image can be reduced to at most **256** colors.
+
 ## Features
 - Upload an image in **PNG** or **JPEG** format.
 - Choose a quantization algorithm (either SOM or Mini Batch K-Means) and configure its parameters.
